@@ -441,7 +441,7 @@ html {
 }
 body {
   color: #b9babc;
-  background-color: #f8f8ff;
+  background-color: #181818;
   font-size: 15px;
   font-family: "Menlo", monospace;
   font-weight: 400;
@@ -2115,7 +2115,7 @@ pre code {
   background: #3b3b3b;
   -webkit-border-radius: 4px;
   border-radius: 7px;
-  padding: 10px 15px;
+  padding: 0px 10px;
   overflow-x: auto;
   margin: 1rem 0 1rem 0;
 }
@@ -2138,7 +2138,7 @@ pre code {
 .highlight pre {
   padding: 0;
   border: none;
-  background: none;
+  background: #e8e8e8;
 }
 .highlight table {
   width: auto;
